@@ -1,0 +1,1 @@
+{"uuid":"9a419e11-7e38-4d8b-861d-7152629f0250","name":"com.openmrs.tests.PatientPageTest","children":["1824674a-a4e1-488c-9e8b-1b819c7c9a40"],"befores":[{"name":"patientPageSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1645415116379,"stop":1645415124598}],"afters":[],"start":1645415112329,"stop":1645415125448}
